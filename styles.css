@@ -1,0 +1,18 @@
+body {
+  padding: 20px;
+}
+.row {
+  display: block;
+  margin-top: 10px;
+  width: 480px;
+  display: flex;
+  margin-left: unset;
+  justify-content: space-between;
+}
+form {
+  width: 480px;
+}
+.accgen {
+  padding-top: 30px;
+  width: 500px;
+}
